@@ -1,6 +1,10 @@
 # Snowflake-MiniProject-1
 SCD1 Using Snowflake Stream and Task
+
+
 Project Overview
+
+
 In this mini project, :
 
 **Learned how we can ingest the data from an internal stage to a table in snowflake
